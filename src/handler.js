@@ -1,3 +1,5 @@
+/* eslint-disable no-trailing-spaces */
+/* eslint-disable linebreak-style */
 const { nanoid } = require('nanoid');
 const notes = require('./notes');
 
